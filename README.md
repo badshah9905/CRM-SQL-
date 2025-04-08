@@ -1,2 +1,2 @@
 # CRM-SQL-
-CRM ( customer relationship management ) Analysis (SQL)
+### Customer & Sales Analysis for Business Growth
