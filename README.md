@@ -18,3 +18,21 @@ Despite having a large customer base and a healthy pipeline of leads, the compan
 ### Product Strategy Misalignment
  Some products sell well, others don’t.
  There is no clarity on which products are driving growth or which are being sold to which segments.
+
+## 📁 Data Overview
+You’re working with a company that sells various products and manages customer relationships via sales teams and a sales pipeline. You’ve been tasked to uncover insights that can help:
+
+1. Increase sales efficiency
+
+2. Identify valuable customers
+
+3. Improve team performance
+
+4. Spot growth opportunities
+
+## Tables 
+Accounts 
+Products 
+Sales pipeline 
+Sales Teams 
+Data Dictionary
