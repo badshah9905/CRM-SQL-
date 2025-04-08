@@ -31,8 +31,8 @@ You’re working with a company that sells various products and manages customer
 4. Spot growth opportunities
 
 ## Tables 
-table1: Accounts
-table2: Products 
-table3: Sales pipeline 
-table4: Sales Teams 
+table1: Accounts,
+table2: Products, 
+table3: Sales pipeline,
+table4: Sales Teams, 
 table5: Data Dictionary
